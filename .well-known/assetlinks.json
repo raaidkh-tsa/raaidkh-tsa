@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "com.sevenRounds",
     "sha256_cert_fingerprints":
-    ["B6:94:02:F5:90:8A:DA:79:F4:B7:E9:12:A0:CA:57:35:FB:88:45:A9:4B:09:84:83:BA:CB:AE:ED:EB:91:C9:1E"]
+    ["BF:AD:80:6D:42:90:E5:75:1A:3A:8A:A7:CD:D4:2D:31:7D:DE:8F:BE:98:AC:E1:F8:F2:3F:BD:97:CB:37:E9:06"]
   }
 }]
