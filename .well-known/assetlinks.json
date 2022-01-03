@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sevenRounds",
+    "sha256_cert_fingerprints":
+    ["BF:AD:80:6D:42:90:E5:75:1A:3A:8A:A7:CD:D4:2D:31:7D:DE:8F:BE:98:AC:E1:F8:F2:3F:BD:97:CB:37:E9:06"]
+  }
+}]
