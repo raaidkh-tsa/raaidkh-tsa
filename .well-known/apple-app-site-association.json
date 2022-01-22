@@ -1,13 +1,13 @@
 {
-   "applinks": {
-	"apps"[],
-	"details": [
-	{
-		"appID": "9333AT642H.com.pointofgrocery.ios.app",
-		"paths": [
-		  "*"
-		]
-	    }
-	]
-    }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "9333AT642H.com.pointofgrocery.ios.app",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
