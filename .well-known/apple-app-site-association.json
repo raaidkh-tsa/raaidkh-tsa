@@ -3,15 +3,12 @@
 		"apps"[],
 			"details": [
 				{
-					"appIDs": ["com.mucoto.ios.app"],
+					"appIDs": ["9333AT642H.com.pointofgrocery.ios.app"],
 					"path": [
 						"*"
 					]
 				}
 			],
-"appclips": {
-        "apps": ["com.mucoto.ios.app"]
-    }
 
 	}
 }
