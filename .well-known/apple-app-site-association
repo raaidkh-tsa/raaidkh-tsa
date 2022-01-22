@@ -1,0 +1,14 @@
+
+{
+	"applinks": {
+		"apps"[],
+		"details": [
+		{
+		"appID":"com.mucoto.ios.app",
+		"path":[
+			"*"
+		]
+		}
+		 ]
+	 }
+  }
